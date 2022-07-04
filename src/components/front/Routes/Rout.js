@@ -1,6 +1,6 @@
 import React from "react";
 import Products from "../Products/Products";
-import Signup from "../Signup/Signup";
+import Signup from "../Signup/Form";
 import Cart from "../Cart/Cart";
 import { Route, Routes } from "react-router-dom";
 
